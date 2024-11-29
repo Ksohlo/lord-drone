@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
@@ -13,7 +13,7 @@ export default function Home() {
 				<div className="md:w-2/3">
 					<h1 className="mb-5 text-5xl font-bold">Hello there 👋</h1>
 					<p className="mb-5">
-						I'm Ogunnubi Eniola a motivated Mechanical Engineering student with expertise in 2D drawing, 3D modeling, and product design. I specialize in creating 3D models of machine parts, mechanical components, and product designs. 
+						I&apos;m Ogunnubi Eniola a motivated Mechanical Engineering student with expertise in 2D drawing, 3D modeling, and product design. I specialize in creating 3D models of machine parts, mechanical components, and product designs. 
 						I am highly experienced with Fusion 360, AutoCAD, and SolidWorks, and I excel at interpreting 2D engineering drawings to produce accurate 3D models.
 					</p>
 				</div>
